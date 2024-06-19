@@ -8,3 +8,7 @@ Prerequisites
 =================
 * 1. tkinter
 * 2. python
+
+Pict
+=================
+![image](https://github.com/foxxydid/GitTrain/assets/92987387/f4102679-cf53-4241-a55f-2919babea0fe)
